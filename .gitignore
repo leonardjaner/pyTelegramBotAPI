@@ -1,0 +1,5 @@
+*.pyc
+python/.idea
+python/virtualenv
+.idea/
+.DS_Store
